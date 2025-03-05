@@ -1,0 +1,20 @@
+1. a> 32 and 64
+2. b> int to long
+3. a> -127
+4. b> int [] A= {1,2,3};
+5. a> object reference
+6. c> bcd
+7. d> -1
+8. b> void
+9. b> 3.0
+10. b> stack
+11. d> 6 
+12. a> right shift operator
+13. b> use of pointers
+14. c> protected
+15. d> Runtime error
+16. b> private
+17. d> a condition to start the recursion 
+18. a> 5 4 3 2 1
+19. a> /* comment */
+20. a> final
